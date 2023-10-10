@@ -15,6 +15,6 @@ public class Ejercicio6 {
 		for (int x=1;x<=numero;x++){
 			suma= x + suma;
 			
-		}System.out.println("La suma detodos los número es: " + suma);
+		}System.out.println("La suma de todos los número es: " + suma);
 	}
 }
