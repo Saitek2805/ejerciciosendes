@@ -34,6 +34,7 @@ public class Ejercicio4 {
 			System.out.println("Domingo");
 			break;
 		default:
+			System.out.println("Número no comprendido entre 1 y 7");	
 			
 			
 		}
