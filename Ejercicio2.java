@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Ejercicio2 {
 
 	public static void main(String[] args) {
-		int distancia,velocidad;//Valores dados a la distancia y a la velocidad(distancia,velocidad)
+		float distancia,velocidad;//Valores dados a la distancia y a la velocidad(distancia,velocidad)
 		float tiempo;
 		
 		Scanner teclado = new Scanner(System.in);
